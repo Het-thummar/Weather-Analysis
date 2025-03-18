@@ -46,14 +46,16 @@ To run this project, you'll need to install the following dependencies:
 
 ## How to Use
 
-### Step 1 : Install Dependencies
+### Step 1 : Clone the Repository
 
-### Step 2 : create Database 
+### Step 2 : Install Dependencies
 
-### Step 3 : Run the Project
+### Step 3 : Create Database 
 
-### Step 4 : Login or Register
+### Step 4 : Run the Project
 
-### Step 5 : Enter city name(s) to fetch weather data
+### Step 5 : Login or Register
 
-### Step 6 : Visualize weather data using line graphs
+### Step 6 : Enter city name(s) to fetch weather data
+
+### Step 7 : Visualize weather data using line graphs
